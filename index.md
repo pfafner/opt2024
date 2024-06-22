@@ -37,7 +37,7 @@ El programa del curso estará disponible en breve.
 ### Horario
 <div id='id-horario'/>
 
-* Martes de 19:50 a 21:25 CIT-501, y Jueves de 19:50 a 21:25 CIT-414.
+* Martes de 19:50 a 21:25 TBA, y Jueves de 19:50 a 21:25 TBA.
 
 ### Office Hours
 <div id='id-office'/>
