@@ -6,7 +6,6 @@ Sitio en construcción!
 
 La información del curso estará disponible en breve. Pueden ocurrir cambios.
 
-# Métodos Numéricos II 2023
 
 Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: 
 
@@ -32,7 +31,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Programa del curso
 <div id='id-programa'/>
 
-[Programa del curso](programa/Programa-opt2023.pdf){:target="_blank"}
+[Programa del curso](programa/Programa-opt2024.pdf){:target="_blank"}
 
 ### Horario
 <div id='id-horario'/>
@@ -47,9 +46,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Material del curso
 <div id='id-material'/>
 
- **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
- -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 04.07.2023   | Introducción al curso. Normas matriciales. [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Trefethen-Bau, Lecture 3. 
+**No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
+-------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
+.        | 02.07.2024   | Inicio del curso.  | 
 
   
   
