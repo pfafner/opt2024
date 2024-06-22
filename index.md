@@ -31,7 +31,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Programa del curso
 <div id='id-programa'/>
 
-[Programa del curso](programa/Programa-opt2024.pdf){:target="_blank"}
+El programa del curso estará disponible en breve.
+
 
 ### Horario
 <div id='id-horario'/>
