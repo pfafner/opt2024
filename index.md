@@ -37,7 +37,7 @@ El programa del curso estará disponible en breve.
 ### Horario
 <div id='id-horario'/>
 
-* Martes de 19:00 a 20:35 CIT-???, y Jueves de 19:00 a 20:35 CIT-???.
+* Martes de 19:00 a 20:35 CIT-312, y Jueves de 19:00 a 20:35 CIT-312.
 
 ### Office Hours
 <div id='id-office'/>
