@@ -4,9 +4,6 @@
 
 Sitio en construcción!   
 
-La información del curso estará disponible en breve. Pueden ocurrir cambios.
-
-
 Este curso es continuación de los temas estudiados en Métodos Numéricos 1. En esta materia, se estudian o revisan temas no introductorios de algoritmos para cálculo científico y aplicado y su implementación computacional. Se estudian tres grandes temas: 
 
 (1) Álgebra lineal computacional, 
