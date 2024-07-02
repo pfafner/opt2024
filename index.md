@@ -83,5 +83,12 @@ En el curso habrán dos proyectos, los cuales serán indicados más adelante.
 
 * [C. Meyer (2001). *Matrix Analysis and Applied Linear Algebra*.](http://library.lol/main/7EF368F2EA42EB4E48F09EA438C1822E){:target="_blank"}
 
+### Referencias programación lineal:
+
+* [J. Matousek, B. Gärtner, (2007). *Understanding and Using
+Linear Programming*.](http://library.lol/main/4E0F73DC6A1E36D157A69F09D3834452){:target="_blank"}
+
+* [A. Schrijver (1997). *Theory of Linear and Integer Programming*.](http://library.lol/main/35EDF7D8DFC7FCCC3939FDDAB6680ED3){:target="_blank"}
+
 ---
 
