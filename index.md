@@ -40,9 +40,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Material del curso
 <div id='id-material'/>
 
-**No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
--------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-01       | 02.07.2024   | Inicio del curso.  |  
+**No.**  | **Fecha**    | **Tópicos**                                                              | **Recursos**
+-------- | ------------ | ------------------------------------------------------------------------ |  ---------------------------------
+01       | 02.07.2024   | Inicio del curso. <br/> |   
+02       | 04.07.2024   | Normas matriciales. <br/>  [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Trefethen-Bau, Lecture 3.
 
   
   
