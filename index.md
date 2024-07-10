@@ -44,7 +44,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 -------- | ------------ | ------------------------------------------------------------------------ |  ---------------------------------
 01       | 02.07.2024   | Introducción. Aspectos generales del curso. <br/> | 
 02       | 04.07.2024   | Normas matriciales. <br/>  [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Trefethen-Bau, Lecture 3. 
-
+03       | 09.07.2024   | Autovalores. Descomposición espectral. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Trefethen-Bau, Lecture 4.
   
   
 # Proyectos
