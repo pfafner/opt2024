@@ -48,6 +48,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 04       | 11.07.2024   | Ejemplos de descomposición espectral. Descomposición en valores singulares (SVD). [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Trefethen-Bau, Lecture 5. 
 L1       | 11.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} <br/> **Entrega: Jueves 25 de julio**  
 05       | 16.07.2024   | Propiedades de la SVD. Aproximaciones de bajo rango.  |  
+06       | 18.07.2024   | Aplicaciones de la SVD: Compresión de imágenes.  |  
+
 
     
   
