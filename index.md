@@ -49,7 +49,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 L1       | 11.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} <br/> **Entrega: Jueves 25 de julio**  
 05       | 16.07.2024   | Propiedades de la SVD. Aproximaciones de bajo rango.  |  
 06       | 18.07.2024   | Aplicaciones de la SVD: Compresión de imágenes.  |  
-07       | 23.07.2024   | Factoración LU.  |  
+07       | 23.07.2024   | Condicionamiento y Estabilidad.  |   
+08       | 25.07.2024   | Factoración LU.  |  
 
 
     
