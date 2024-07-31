@@ -50,7 +50,9 @@ L1       | 11.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} <b
 05       | 16.07.2024   | Propiedades de la SVD. Aproximaciones de bajo rango. [Aula 04](aulas/Aula04.pdf){:target="_blank"} |  
 06       | 18.07.2024   | Aplicaciones de la SVD: Compresión de imágenes.  |  
 07       | 23.07.2024   | Condicionamiento y Estabilidad. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Trefethen-Bau, Lectures 13-15.
-08       | 25.07.2024   | Factoración LU y PA = LU. Aplicaciones. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  
+08       | 25.07.2024   | Factoración LU y PA = LU. Aplicaciones. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
+09       | 30.07.2024   | Técnicas de Pivoteo. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
+
 
 
     
