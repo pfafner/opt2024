@@ -53,10 +53,10 @@ L1       | 11.07.2024   |  | [Lista 01](listas/Lista01.pdf){:target="_blank"} <b
 08       | 25.07.2024   | Factoración LU y PA = LU. Aplicaciones. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
 09       | 30.07.2024   | Técnicas de Pivoteo. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
 10       | 01.08.2024   | Corto 1. <br/> |  
-11       | 06.08.2024   | Factoraciones especiales de matrices: Cholesky, LDL^T. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
+11       | 06.08.2024   | Factoraciones especiales de matrices: Cholesky, LDL^T. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Trefethen-Bau, Lecture 23. <br/> Burden-Faires, Cap 6.  
 L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <br/> **Entrega: Martes 27 de agosto**  
-12       | 06.08.2024   | Métodos iterativos para sistemas lineales. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
-13       | 20.08.2024   | Descomposición QR. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lecture 6. 
+12       | 06.08.2024   | Métodos iterativos para sistemas lineales. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Quarteroni et al., Cap. 4.
+13       | 20.08.2024   | Descomposición QR. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10. 
 
   
 # Proyectos
