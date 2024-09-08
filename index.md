@@ -58,6 +58,8 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 12       | 06.08.2024   | Métodos iterativos para sistemas lineales. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Quarteroni et al., Cap. 4.
 13       | 20.08.2024   | Descomposición QR. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10. 
 14       | 27.08.2024   | El método de las potencias. Deflación. *Shift trick*. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27.
+15       | 04.09.2024   | Matrices ralas. | 
+16       | 06.09.2024   | Agrupamiento espectral. Segmentación de imágenes. |  
 
   
 # Proyectos
