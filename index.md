@@ -69,7 +69,7 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 06.09.2024   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 10 de octubre.** <br/> [plane_half.png](proyectos/plane_half.png){:target="_blank"}
+ 1       | 06.09.2024   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 10 de octubre.** <br/> [falcon.jpg](proyectos/falcon.jpg){:target="_blank"} [plane.jpg](proyectos/plane.jpg){:target="_blank"} [tree.jpg](proyectos/tree.jpg){:target="_blank"} 
 
 
 # Referencias
