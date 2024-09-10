@@ -65,7 +65,11 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 # Proyectos
 <div id='id-proyectos'/>
 
-En el curso habrán dos proyectos, los cuales serán indicados más adelante.
+## Primer Proyecto
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 06.09.2024   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 10 de octubre.** <br/> [plane_half.png](proyectos/plane_half.png){:target="_blank"}
 
 
 # Referencias
