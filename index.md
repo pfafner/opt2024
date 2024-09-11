@@ -60,6 +60,7 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 14       | 27.08.2024   | El método de las potencias. Deflación. *Shift trick*. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27.
 15       | 04.09.2024   | Matrices ralas. | 
 16       | 06.09.2024   | Agrupamiento espectral. Segmentación de imágenes. |  
+L3       |    |    | 
 
   
 # Proyectos
