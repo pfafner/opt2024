@@ -61,7 +61,8 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 15       | 04.09.2024   | Matrices ralas. <br/> | 
 16       | 06.09.2024   | Agrupamiento espectral. Segmentación de imágenes. |  
 L3       |    |    | 
-17       | 19.09.2024   | Programación Lineal. <br/> |  
+17       | 19.09.2024   | Programación Lineal. Forma estándar. <br/> |  
+18       | 24.09.2024   | Bases y soluciones básicas. Algoritmo Simplex. <br/> [Ejemplo 1](code/Ejemplo1.ipynb){:target="_blank"} [Ejemplo 3](code/Ejemplo3.ipynb){:target="_blank"} | Taha, Cap. 1 a 3.  
 
   
 # Proyectos
