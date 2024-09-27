@@ -60,9 +60,9 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 14       | 27.08.2024   | El método de las potencias. Deflación. *Shift trick*. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27.
 15       | 04.09.2024   | Matrices ralas. <br/> | 
 16       | 06.09.2024   | Agrupamiento espectral. Segmentación de imágenes. |  
-L3       |    |    | 
 17       | 19.09.2024   | Programación Lineal. Forma estándar. <br/> |  
 18       | 24.09.2024   | Bases y soluciones básicas. Algoritmo Simplex. <br/> [Ejemplo 1](code/Ejemplo1.ipynb){:target="_blank"} [Ejemplo 3](code/Ejemplo3.ipynb){:target="_blank"} | Taha, Cap. 1 a 3.  
+L3       | 26.09.2024   | Aplicaciones de programación lineal. <br/> | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: Jueves 03 de octubre**  
 
   
 # Proyectos
