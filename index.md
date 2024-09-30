@@ -58,10 +58,11 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 12       | 06.08.2024   | Métodos iterativos para sistemas lineales. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Quarteroni et al., Cap. 4.
 13       | 20.08.2024   | Descomposición QR. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Trefethen-Bau, Lectures 6-8 y 10. 
 14       | 27.08.2024   | El método de las potencias. Deflación. *Shift trick*. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27.
-15       | 04.09.2024   | Matrices ralas. <br/> | 
-16       | 06.09.2024   | Agrupamiento espectral. Segmentación de imágenes. |  
-17       | 19.09.2024   | Programación Lineal. Forma estándar. <br/> |  
-18       | 24.09.2024   | Bases y soluciones básicas. Algoritmo Simplex. <br/> [Ejemplo 1](code/Ejemplo1.ipynb){:target="_blank"} [Ejemplo 3](code/Ejemplo3.ipynb){:target="_blank"} | Taha, Cap. 1 a 3.  
+15       | 27.08.2024   | El método QR. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Trefethen-Bau, Lecture 27.
+17       | 04.09.2024   | Matrices ralas. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
+18       | 06.09.2024   | Agrupamiento espectral. Segmentación de imágenes. |  
+19       | 19.09.2024   | Programación Lineal. Forma estándar. <br/> |  
+20       | 24.09.2024   | Bases y soluciones básicas. Algoritmo Simplex. <br/> [Ejemplo 1](code/Ejemplo1.ipynb){:target="_blank"} [Ejemplo 3](code/Ejemplo3.ipynb){:target="_blank"} | Taha, Cap. 1 a 3.  
 L3       | 26.09.2024   | Aplicaciones de programación lineal. <br/> | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: Jueves 03 de octubre**  
 
   
