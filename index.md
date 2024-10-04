@@ -65,6 +65,8 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 20       | 24.09.2024   | Bases y soluciones básicas. Algoritmo Simplex. <br/> [Ejemplo 1](code/Ejemplo1.ipynb){:target="_blank"} [Ejemplo 3](code/Ejemplo3.ipynb){:target="_blank"} | Taha, Cap. 1 a 3.  
 L3       | 26.09.2024   | Aplicaciones de programación lineal. <br/> | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: Jueves 03 de octubre**  
 21       | 01.10.2024   | Modelo de transporte. Modelo de asignación. <br/> | Taha, Cap. 5
+22       | 03.10.2024   | Fundamentos de optimización. Derivadas vectoriales y matriciales. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
+Fukunaga. App A. 
 
   
 # Proyectos
