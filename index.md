@@ -66,6 +66,8 @@ L2       | 08.08.2024   |  | [Lista 02](listas/Lista02.pdf){:target="_blank"} <b
 L3       | 26.09.2024   | Aplicaciones de programación lineal. <br/> | [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: Jueves 03 de octubre**  
 21       | 01.10.2024   | Modelo de transporte. Modelo de asignación. <br/> | Taha, Cap. 5
 22       | 03.10.2024   | Fundamentos de optimización. Derivadas vectoriales y matriciales. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Fukunaga. App A. 
+23       | 08.10.2024   | Fundamentos de optimización II. Gradiente. Fórmula de Taylor. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright, Cap 1. 
+24       | 08.10.2024   | Condiciones de optimalidad. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright, Cap 1. 
 
   
 # Proyectos
