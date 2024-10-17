@@ -68,8 +68,9 @@ L3       | 26.09.2024   | Aplicaciones de programación lineal. <br/> | [Lista 0
 22       | 03.10.2024   | Fundamentos de optimización. Derivadas vectoriales y matriciales. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Fukunaga. App A. 
 23       | 08.10.2024   | Fundamentos de optimización II. Gradiente. Fórmula de Taylor. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright, Cap 1. 
 24       | 08.10.2024   | Condiciones de optimalidad. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright, Cap 1. 
-25       | 10.10.2024   | Optimización 1-dimensional. <br/> | Nocedal-Wright, Cap 1. 
-26       | 15.10.2024   | Descenso gradiente. <br/>  | Nocedal-Wright, Cap 1. 
+25       | 10.10.2024   | Funciones Convexas. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Boyd-Vandenberghe.
+26       | 10.10.2024   | Optimización 1-dimensional. <br/>  [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
+27       | 15.10.2024   | Descenso gradiente. <br/>  [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
 
   
 # Proyectos
