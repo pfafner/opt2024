@@ -71,6 +71,8 @@ L3       | 26.09.2024   | Aplicaciones de programación lineal. <br/> | [Lista 0
 25       | 10.10.2024   | Funciones Convexas. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Boyd-Vandenberghe.
 26       | 10.10.2024   | Optimización 1-dimensional. <br/>  [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
 27       | 15.10.2024   | Descenso gradiente. <br/>  [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
+28       | 17.10.2024   | Descenso gradiente de Newton. Hessianos. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
+C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blank"} <br/> **Entrega: Martes 22 de octubre.**
 
   
 # Proyectos
