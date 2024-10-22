@@ -85,6 +85,17 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  1       | 06.09.2024   | Proyecto 1 - *Spectral Clustering*.           | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 10 de octubre.** <br/> [falcon.jpg](proyectos/falcon.jpg){:target="_blank"} [plane.jpg](proyectos/plane.jpg){:target="_blank"} [tree.jpg](proyectos/tree.jpg){:target="_blank"} 
 
 
+## Segundo Proyecto
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 22.10.2024   | Proyecto 2 - *Optimización*.           | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> 
+ 2       | 30.10.2024   | Elección de tema.                      |  
+ 3       | 09.11.2024   | Borrador de la presentación.           |  
+ 4       | 11-22.11.2024 | Presentaciones.  |  
+ 5       | 24.11.2024   | Entrega de código, presentación e informa final. |  
+
+
 # Referencias
 <div id='id-ref'/>
 
