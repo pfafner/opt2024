@@ -105,7 +105,7 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  1       | 24.10.2024 | Gaby, Lourdes          | Optimización en redes neuronales 
  2       | 24.10.2024 | Ari, Ricardo           | Método de Nelder-Mead 
  3       | 24.10.2024 | Sofi, Mario            | Optimización en *machine learning*
- 4       | 24.10.2024 | Nicolle, Jorge         | Tabú Search  
+ 4       | 24.10.2024 | Nicolle, Jorge         | Búsqueda Tabú  
  5       | 24.10.2024 | Ximena, Montse         | Alguno de los métodos de enjambre
 
 # Referencias
