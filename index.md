@@ -107,7 +107,10 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  3       | 24.10.2024 | Sofi, Mario            | Optimización en *machine learning*
  4       | 24.10.2024 | Nicolle, Jorge         | Búsqueda Tabú  
  5       | 24.10.2024 | Ximena, Montse         | Alguno de los métodos de enjambre
+ 6       | 25.10.2024 | Sharis, Manuel         | Lagrangiano aumentado
+ 7       | 25.10.2024 | Paulo, Joab            | Ant-colony optimization
 
+Ant Colony Optimization
 # Referencias
 <div id='id-ref'/>
 
