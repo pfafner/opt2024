@@ -76,6 +76,7 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
 29       | 22.10.2024   | Búsqueda en Línea. Condiciones de Wolfe y de Goldstein. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
 30       | 22.10.2024   | Convergencia de Búsqueda en Línea. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
 31       | 24.10.2024   | Descenso coordenado. Gradiente proyectado simple <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
+32       | 29.10.2024   | Regresión linea. Ecuaciones Normales. <br/> | Nocedal-Wright, Cap 10. 
 
   
 # Proyectos
