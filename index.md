@@ -115,7 +115,6 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  10      | 30.10.2024 | Diana, Sebastián       | El problema *Knapsack*
  
 
-Ant Colony Optimization
 # Referencias
 <div id='id-ref'/>
 
