@@ -112,6 +112,7 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  7       | 25.10.2024 | Paulo, Joab            | Ant-colony optimization
  8       | 29.10.2024 | Aaron                  | Algoritmos en grafos
  9       | 29.10.2024 | Mariel                 | Regresión logística 
+ 10      | 30.10.2024 | Diana, Sebastián       | El problema *Knapsack*
  
 
 Ant Colony Optimization
