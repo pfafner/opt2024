@@ -76,7 +76,7 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
 29       | 22.10.2024   | Búsqueda en Línea. Condiciones de Wolfe y de Goldstein. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
 30       | 22.10.2024   | Convergencia de Búsqueda en Línea. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
 31       | 24.10.2024   | Descenso coordenado. Gradiente proyectado simple <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
-32       | 29.10.2024   | Regresión linea. Ecuaciones Normales. <br/> | Nocedal-Wright, Cap 10. 
+32       | 29.10.2024   | Regresión lineal. Ecuaciones Normales. <br/> | Nocedal-Wright, Cap 10. 
 
   
 # Proyectos
@@ -110,10 +110,11 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  5       | 24.10.2024 | Ximena, Montse         | Particle Swarm optimization
  6       | 25.10.2024 | Sharis, Manuel         | Lagrangiano aumentado
  7       | 25.10.2024 | Paulo, Joab            | Ant-colony optimization
- 8       | 29.10.2024 | Aaron                  | Algoritmos en grafos
+ 8       | 29.10.2024 | Aaron                  | El problema del TSP
  9       | 29.10.2024 | Mariel                 | Regresión logística 
  10      | 30.10.2024 | Diana, Sebastián       | El problema *Knapsack*
- 
+ 11      | 30.10.2024 | Juan Miguel, Pedro     | Punto interior, método *dog-leg*
+
 
 # Referencias
 <div id='id-ref'/>
