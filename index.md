@@ -67,17 +67,17 @@ L3       | 26.09.2024   | Aplicaciones de programación lineal. <br/> | [Lista 0
 21       | 01.10.2024   | Modelo de transporte. Modelo de asignación. <br/> | Taha, Cap. 5
 22       | 03.10.2024   | Fundamentos de optimización. Derivadas vectoriales y matriciales. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Fukunaga. App A. 
 23       | 08.10.2024   | Fundamentos de optimización II. Gradiente. Fórmula de Taylor. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Nocedal-Wright, Cap 1. 
-24       | 08.10.2024   | Condiciones de optimalidad. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright, Cap 1. 
+24       | 08.10.2024   | Condiciones de optimalidad. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Nocedal-Wright, Cap. 1 
 25       | 10.10.2024   | Funciones Convexas. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Boyd-Vandenberghe.
-26       | 10.10.2024   | Optimización 1-dimensional. <br/>  [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
-27       | 15.10.2024   | Descenso gradiente. <br/>  [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
+26       | 10.10.2024   | Optimización 1-dimensional. <br/>  [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
+27       | 15.10.2024   | Descenso gradiente. <br/>  [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
 28       | 17.10.2024   | Descenso gradiente de Newton. Hessianos. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
 C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blank"} <br/> **Entrega: Martes 22 de octubre.**
-29       | 22.10.2024   | Búsqueda en Línea. Condiciones de Wolfe y de Goldstein. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
-30       | 22.10.2024   | Convergencia de Búsqueda en Línea. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
-31       | 24.10.2024   | Descenso coordenado. Gradiente proyectado simple <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Nocedal-Wright, Cap 2. 
-32       | 29.10.2024   | Regresión lineal. Ecuaciones Normales. <br/> | Nocedal-Wright, Cap 10. 
-33       | 31.10.2024   | Gradiente Conjugado. <br/> | Nocedal-Wright, Cap 5. 
+29       | 22.10.2024   | Búsqueda en Línea. Condiciones de Wolfe y de Goldstein. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
+30       | 22.10.2024   | Convergencia de Búsqueda en Línea. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
+31       | 24.10.2024   | Descenso coordenado. Gradiente proyectado simple <br/> [Aula 29](aulas/Aula29.pdf){:target="_blank"} | Nocedal-Wright, Cap. 2 
+32       | 29.10.2024   | Regresión lineal. Ecuaciones Normales. <br/> | Nocedal-Wright, Sección 9.3 
+33       | 31.10.2024   | Gradiente Conjugado. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"}  [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Nocedal-Wright, Cap. 5 
 
   
 # Proyectos
