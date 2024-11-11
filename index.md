@@ -104,7 +104,7 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  4       | 11-22.11.2024 | Presentaciones.  |  
  5       | 24.11.2024   | Entrega de código, presentación e informa final. |  
 
-### Temas ya elegidos
+## Horarios Presentación Segundo Proyecto
 
 **Grupo** | **Fecha** | **Expositores**        | **Tópico**
 -------- | ---------- | ---------------------- |  -------------------------------------
