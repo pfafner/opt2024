@@ -113,12 +113,12 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  7       | 12.11.2024 | Sofi, Mario            | Optimización en *machine learning*
  8       | 12.11.2024 | Diana, Sebastián       | El problema *Knapsack*
  1       | 12.11.2024 | Aaron, Carlos          | El problema del TSP
- 6       | 14.11.2024 | Ximena, Montse         | Particle Swarm optimization
+ 6       | 14.11.2024 | Ximena, Montse         | Particle Swarm Optimization
  9       | 14.11.2024 | Mariel, Adriá          | Regresión logística 
  3       | 14.11.2024 | Paulo, Joab            | Ant-colony optimization
  2       | 19.11.2024 | Gaby, Lourdes          | Optimización en redes neuronales 
  10      | 19.11.2024 | Sharis, Manuel         | Lagrangiano aumentado
- 4       | 19.11.2024 | Juan Miguel, Pedro     | Punto interior, método *dog-leg*
+ 4       | 19.11.2024 | Juan Miguel, Pedro     | Región de confianza, método *dog-leg*
  10      | 21.11.2024 | Alan, Mario            | Gradiente estocástico, ADAM 
  12      | 21.11.2024 | Ari, Ricardo           | Método de Nelder-Mead 
  5       | 21.11.2024 | Nicolle, Jorge         | Búsqueda Tabú 
