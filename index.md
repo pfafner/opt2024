@@ -114,7 +114,7 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
  8       | 12.11.2024 | Diana, Sebastián       | El problema *Knapsack*
  1       | 12.11.2024 | Aaron, Carlos          | El problema del TSP
  6       | 14.11.2024 | Ximena, Montse         | Particle Swarm Optimization
- 9       | 14.11.2024 | Mariel, Adriá          | Regresión logística 
+ 9       | 14.11.2024 | Mariel, Adrián         | Regresión logística 
  3       | 14.11.2024 | Paulo, Joab            | Ant-colony optimization
  2       | 19.11.2024 | Gaby, Lourdes          | Optimización en redes neuronales 
  10      | 19.11.2024 | Sharis, Manuel         | Lagrangiano aumentado
