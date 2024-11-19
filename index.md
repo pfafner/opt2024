@@ -83,7 +83,8 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
 36       | 07.11.2024   | Algoritmos genéticos. Operadores de cruce y mutación. | 
 37       | 07.11.2024   | Enfriamiento simulado. <br/> | 
 38       | 12.11.2024   | Presentación de proyectos. | 
-
+C3       | 18.11.2024   | Corto 3. | [Corto 3](cortos/Corto3.pdf){:target="_blank"} <br/> **Entrega: Viernes 22 de noviembre.**
+39       | 19.11.2024   | Presentación de proyectos. | 
 
   
 # Proyectos
