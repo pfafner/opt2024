@@ -79,7 +79,7 @@ C2       | 17.10.2024   | Corto 2. | [Corto 2](cortos/Corto2.pdf){:target="_blan
 32       | 29.10.2024   | Regresión lineal. Ecuaciones Normales. <br/> | Nocedal-Wright, Sección 9.3 
 33       | 31.10.2024   | Gradiente Conjugado. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"}  [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Nocedal-Wright, Cap. 5 
 34       | 05.11.2024   | Métodos Quasi-Newton: SR1, DFP, BFGS. <br/> [Aula 33](aulas/Aula33.pdf){:target="_blank"}  | Nocedal-Wright, Cap. 6 
-35       | 07.11.2024   | Representación en optimización combinatoria. | 
+35       | 07.11.2024   | Representación en optimización combinatoria. [Aula 34](aulas/Aula34.pdf){:target="_blank"} | 
 36       | 07.11.2024   | Algoritmos genéticos. Operadores de cruce y mutación. | 
 37       | 07.11.2024   | Enfriamiento simulado. <br/> | 
 38       | 12.11.2024   | Presentación de proyectos. | 
