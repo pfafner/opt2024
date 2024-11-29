@@ -108,22 +108,22 @@ C4       | 21.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
  4       | 11-22.11.2024 | Presentaciones.  |  
  5       | 24.11.2024   | Entrega de código, presentación e informa final. |  
 
-## Horarios Presentación Segundo Proyecto
+## Presentación Segundo Proyecto
 
-**Grupo** | **Fecha** | **Expositores**        | **Tópico**
--------- | ---------- | ---------------------- |  -------------------------------------
- 7       | 12.11.2024 | Sofi, Mario            | Optimización en *machine learning*
- 8       | 12.11.2024 | Diana, Sebastián       | El problema *Knapsack*
- 1       | 12.11.2024 | Aaron, Carlos          | El problema del TSP
- 6       | 14.11.2024 | Ximena, Montse         | Particle Swarm Optimization
- 9       | 14.11.2024 | Mariel, Adrián         | Regresión logística 
- 3       | 14.11.2024 | Paulo, Joab            | Ant-colony optimization
- 2       | 19.11.2024 | Gaby, Lourdes          | Optimización en redes neuronales 
- 10      | 19.11.2024 | Sharis, Manuel         | Lagrangiano aumentado
- 4       | 19.11.2024 | Juan Miguel, Pedro     | Región de confianza, método *dog-leg*
- 10      | 21.11.2024 | Alan, Mario            | Gradiente estocástico, ADAM 
- 12      | 21.11.2024 | Ari, Ricardo           | Método de Nelder-Mead 
- 5       | 21.11.2024 | Nicolle, Jorge         | Búsqueda Tabú 
+**Grupo** | **Expositores**        | **Tópico**
+--------- | ---------------------- |  -------------------------------------
+ 7        | Sofi, Mario            | Optimización en *machine learning*
+ 8        | Diana, Sebastián       | El problema *Knapsack*
+ 1        | Aaron, Carlos          | El problema del TSP
+ 6        | Ximena, Montse         | Particle Swarm Optimization
+ 9        | Mariel, Adrián         | Regresión logística 
+ 3        | Paulo, Joab            | Ant-colony optimization
+ 2        | Gaby, Lourdes          | Optimización en redes neuronales 
+ 10       | Sharis, Manuel         | Lagrangiano aumentado
+ 4        | Juan Miguel, Pedro     | Región de confianza, método *dog-leg*
+ 11       | Alan, Mario            | Gradiente estocástico, ADAM 
+ 12       | Ian, Ricardo           | Método de Nelder-Mead 
+ 5        | Nicolle, Jorge         | Búsqueda Tabú 
   
 
 # Referencias
