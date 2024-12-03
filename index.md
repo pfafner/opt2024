@@ -112,18 +112,18 @@ C4       | 21.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
 
 **Grupo** | **Expositores**        | **Tópico**
 --------- | ---------------------- |  -------------------------------------
- 7        | Sofi, Mario            | Optimización en *machine learning*
- 8        | Diana, Sebastián       | El problema *Knapsack*
- 1        | Aaron, Carlos          | El problema del TSP
- 6        | Ximena, Montse         | Particle Swarm Optimization
- 9        | Mariel, Adrián         | Regresión logística 
- 3        | Paulo, Joab            | Ant-colony optimization
- 2        | Gaby, Lourdes          | Optimización en redes neuronales 
- 10       | Sharis, Manuel         | Lagrangiano aumentado
- 4        | Juan Miguel, Pedro     | Región de confianza, método *dog-leg*
- 11       | Alan, Mario            | Gradiente estocástico, ADAM 
- 12       | Ian, Ricardo           | Método de Nelder-Mead 
- 5        | Nicolle, Jorge         | Búsqueda Tabú 
+ 7        | Sofi, Mario            | Optimización en *machine learning* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 8        | Diana, Sebastián       | El problema *Knapsack* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 1        | Aaron, Carlos          | El problema del TSP <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 6        | Ximena, Montse         | Particle Swarm Optimization <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 9        | Mariel, Adrián         | Regresión logística <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 3        | Paulo, Joab            | Ant-colony optimization <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 2        | Gaby, Lourdes          | Optimización en redes neuronales <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 10       | Sharis, Manuel         | Lagrangiano aumentado <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 4        | Juan Miguel, Pedro     | Región de confianza, método *dog-leg* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 11       | Alan, Mario            | Gradiente estocástico, ADAM <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 12       | Ian, Ricardo           | Método de Nelder-Mead <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
+ 5        | Nicolle, Jorge         | Búsqueda Tabú <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
   
 
 # Referencias
