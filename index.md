@@ -110,7 +110,7 @@ C4       | 21.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
 
 ## Presentación Segundo Proyecto
 
-**Grupo** | **Expositores**        | **Tópico**
+**Fecha** | **Expositores**        | **Tópico**
 --------- | ---------------------- |  -------------------------------------
  7        | Sofi, Mario            | Optimización en *machine learning* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
  8        | Diana, Sebastián       | El problema *Knapsack* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
