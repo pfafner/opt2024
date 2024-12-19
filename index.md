@@ -110,9 +110,9 @@ C4       | 21.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
 
 ## Presentación Segundo Proyecto
 
-**Fecha** | **Expositores**        | **Tópico**
+**Grupo** | **Expositores**        | **Tópico**
 --------- | ---------------------- |  -------------------------------------
- 7        | Sofi, Mario            | Optimización en *machine learning* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+ 7        | Sofi, Mario            | Optimización en Máquinas de Vectores de Soporte <br/> [Presentación](proyectos/SVM.pdf){:target="_blank"}
  8        | Diana, Sebastián       | El problema *Knapsack* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
  1        | Aaron, Carlos          | El problema del TSP <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
  6        | Ximena, Montse         | Particle Swarm Optimization <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
