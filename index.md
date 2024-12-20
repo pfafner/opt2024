@@ -113,10 +113,10 @@ C4       | 21.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
 **Fecha**   | **Expositores**        | **Tópico**
 ----------- | ---------------------- |  -------------------------------------
 12.11.2024  | Sofi, Mario            | Optimización en Máquinas de Vectores de Soporte <br/> [Presentación](proyectos/SVM.pdf){:target="_blank"}
-12.11.2024  | Diana, Sebastián       | El problema *Knapsack* <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
-12.11.2024  | Aaron, Carlos          | El problema del TSP <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
-14.11.2024  | Ximena, Montse         | Particle Swarm Optimization <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
-14.11.2024  | Mariel, Adrián         | Regresión logística <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+12.11.2024  | Diana, Sebastián       | El problema *Knapsack* <br/> [Presentación](proyectos/Knapsack.pdf){:target="_blank"}
+12.11.2024  | Aaron, Carlos          | El problema del TSP <br/> [Presentación](proyectos/TSP.pdf){:target="_blank"}
+14.11.2024  | Ximena, Montse         | Particle Swarm Optimization <br/> [Presentación](proyectos/PSO.pdf){:target="_blank"}
+14.11.2024  | Mariel, Adrián         | Regresión logística <br/> [Presentación](proyectos/Logistic.pdf){:target="_blank"}
 14.11.2024  | Paulo, Joab            | Ant-colony optimization <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
 19.11.2024  | Gaby, Lourdes          | Optimización en redes neuronales <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
 19.11.2024  | Sharis, Manuel         | Lagrangiano aumentado <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
