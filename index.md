@@ -121,7 +121,7 @@ C4       | 21.11.2024   | Corto 4. | [Corto 4](cortos/Corto4.pdf){:target="_blan
 19.11.2024  | Gaby, Lourdes          | Optimización en redes neuronales <br/> [Presentación](proyectos/OptRN.pdf){:target="_blank"}
 19.11.2024  | Sharis, Manuel         | Lagrangiano aumentado <br/> [Presentación](proyectos/Lagrangiano_Aumentado.pdf){:target="_blank"}
 19.11.2024  | Juan Miguel, Pedro     | Región de confianza, método *dog-leg* <br/> [Presentación](proyectos/DogLeg.pdf){:target="_blank"}
-21.11.2024  | Alan, Mario            | Gradiente estocástico, ADAM <br/> [Presentación](proyectos/X.pdf){:target="_blank"}
+21.11.2024  | Alan, Mario            | Gradiente estocástico, ADAM <br/> [Presentación](proyectos/SGD.pdf){:target="_blank"}
 21.11.2024  | Ian, Ricardo           | Método de Nelder-Mead <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
 21.11.2024  | Nicolle, Jorge         | Búsqueda Tabú <br/> [Presentación](proyectos/X.pdf){:target="_blank"} 
   
